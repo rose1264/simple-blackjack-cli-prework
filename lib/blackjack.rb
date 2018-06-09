@@ -25,6 +25,7 @@ end
 def initial_round
   first_card = deal_card
   second_card = deal_card
+  display_card_total
   first_card + second_card
 end
 
