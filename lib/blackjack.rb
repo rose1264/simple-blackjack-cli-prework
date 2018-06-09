@@ -1,5 +1,3 @@
-total = 0
-
 def welcome
   puts "Welcome to the Blackjack Table"
 end
